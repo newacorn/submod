@@ -1,6 +1,7 @@
 package submod
 
 import "log"
+import "github.com/newacorn/anothermod"
 
 func SayHello() {
 	panic(nil)
@@ -9,6 +10,7 @@ func SayHello() {
 
 func SayHelloV2() {
 	log.Println("SayHelloV2!")
+	anothermod.HelloWorld()
 }
 
 func SayHelloV1() {
