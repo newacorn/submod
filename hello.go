@@ -7,6 +7,10 @@ func SayHello() {
 	//log.Println("Hello!")
 }
 
+func SayHelloV2() {
+	log.Println("SayHelloV2!")
+}
+
 func SayHelloV1() {
 	log.Println("SayHelloV1!")
 }
