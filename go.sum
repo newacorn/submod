@@ -1,2 +1,4 @@
 github.com/newacorn/anothermod v0.0.0-20250228101207-042819c1de53 h1:AAy5BnaLd9H2z5cSXTHI8QwSaPXgXNxvldR95TLku9s=
 github.com/newacorn/anothermod v0.0.0-20250228101207-042819c1de53/go.mod h1:Kmqb9EsQS2QsmH76ahII9VxGTg6xfNyVD+8unpxPHv0=
+github.com/newacorn/anothermod v0.0.1 h1:agauxxIhP/Eo2sAhm1QAh+PQS0oGXHWqkXh8ZlfwCOE=
+github.com/newacorn/anothermod v0.0.1/go.mod h1:Kmqb9EsQS2QsmH76ahII9VxGTg6xfNyVD+8unpxPHv0=
