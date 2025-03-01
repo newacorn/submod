@@ -10,6 +10,7 @@ func SayHello() {
 
 func SayHelloV2() {
 	log.Println("SayHelloV2!")
+	log.Println("added line.")
 	anothermod.HelloWorld()
 }
 
