@@ -4,19 +4,18 @@ go 1.24
 
 require (
 	github.com/ItzSwirlz/angry-birds-star-wars v0.0.0-20240712184743-228d8f2d387f
+	github.com/modern-go/reflect2 v1.0.2
 	github.com/newacorn/anothermod v0.0.2
 )
 
 require (
 	github.com/PretendoNetwork/grpc-go v1.0.2 // indirect
 	github.com/PretendoNetwork/nex-go/v2 v2.0.2 // indirect
-	github.com/PretendoNetwork/nex-protocols-common-go/v2 v2.0.5 // indirect
 	github.com/PretendoNetwork/nex-protocols-go/v2 v2.0.3 // indirect
 	github.com/PretendoNetwork/plogger-go v1.0.4 // indirect
 	github.com/dolthub/maphash v0.1.0 // indirect
 	github.com/fatih/color v1.17.0 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
-	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/jwalton/go-supportscolor v1.2.0 // indirect
 	github.com/klauspost/compress v1.17.8 // indirect
 	github.com/lib/pq v1.10.9 // indirect
